@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Gaurav Kumar
 
-<!--
-**gauravavailable/gauravavailable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate Java Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on: Spring Boot Projects
+- 🌱 I’m currently learning: Microservices & System Design
+- 👯 I’m looking to collaborate on: Java Full Stack Projects
+- 💬 Ask me about: Java, Spring Boot, REST APIs, MicroService, SQL, HTML, CSS, Java Script
+- 📫 How to reach me: gk0215312@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+- Java | Spring Boot | MicroService | SQL
+- HTML | CSS | JavaScript 
+- Git | GitHub
+
+---
+
+## 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/gaurav-kumar-330859223/)
