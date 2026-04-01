@@ -54,5 +54,8 @@
 ![OOP](https://img.shields.io/badge/OOP-orange?style=for-the-badge)
 
 
+![snake gif](https://github.com/gauravavailable/gauravavailable/blob/output/github-contribution-grid-snake.svg)
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
