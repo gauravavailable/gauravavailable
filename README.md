@@ -44,12 +44,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## 📊 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravavailable&show_icons=true)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=gauravavailable)
-
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
