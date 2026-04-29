@@ -22,15 +22,15 @@
 
 ---
 
-## ⚡ Backend Expertise
+## ⚡ Backend Expertise (🔥 Highlight Section)
 
-🔹 REST API Development  
-🔹 Microservices Architecture  
-🔹 Spring Boot | Spring MVC | Spring Security  
-🔹 Hibernate & JPA  
-🔹 SQL Optimization  
-🔹 Exception Handling & Logging  
-🔹 JWT Authentication  
+✔ REST API Design & Development  
+✔ Microservices Architecture  
+✔ Spring Boot, Spring MVC, Spring Security  
+✔ Hibernate, JPA (ORM)  
+✔ SQL Optimization & Query Design  
+✔ Exception Handling & Logging (SLF4J)  
+✔ JWT Authentication & Authorization  
 
 
 ---
@@ -83,11 +83,6 @@
 
 ---
 
-### 🔹 Expression Detection System
-💡 Python-based ML project  
-✔ Face & emotion detection  
-
----
 
 ## 📊 GitHub Analytics
 
