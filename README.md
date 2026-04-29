@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6DB33F&height=200&section=header&text=Gaurav%20Kumar&fontSize=40&fontColor=ffffff" />
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Gaurav Kumar  
