@@ -92,3 +92,8 @@
 ## 🔥 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gauravavailable&color=blue)
+
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/gauravavailable/gauravavailable/blob/output/github-snake-dark.svg)
