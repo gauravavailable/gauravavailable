@@ -80,6 +80,21 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+
+## AWS Services
+
+- [EC2](https://aws.amazon.com/ec2/)
+- [EBS](https://aws.amazon.com/ebs/)
+- [S3](https://aws.amazon.com/s3/)
+- [Route 53](https://aws.amazon.com/route53/)
+- [RDS](https://aws.amazon.com/rds/)
+- [IAM](https://aws.amazon.com/iam/)
+- [AWS CLI](https://aws.amazon.com/cli/)
+- [VPC](https://aws.amazon.com/vpc/)
+- [CloudWatch](https://aws.amazon.com/cloudwatch/)
+- [SNS](https://aws.amazon.com/sns/)
+- [EKS](https://aws.amazon.com/eks/)
+- [Glacier](https://aws.amazon.com/s3/storage-classes/glacier/)
 ---
 
 ## 🔥 Featured Projects
