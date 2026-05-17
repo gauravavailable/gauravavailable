@@ -80,21 +80,57 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+## ☁️ AWS Services
 
-## AWS Services
+<p align="left">
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
 
-- [EC2](https://aws.amazon.com/ec2/)
-- [EBS](https://aws.amazon.com/ebs/)
-- [S3](https://aws.amazon.com/s3/)
-- [Route 53](https://aws.amazon.com/route53/)
-- [RDS](https://aws.amazon.com/rds/)
-- [IAM](https://aws.amazon.com/iam/)
-- [AWS CLI](https://aws.amazon.com/cli/)
-- [VPC](https://aws.amazon.com/vpc/)
-- [CloudWatch](https://aws.amazon.com/cloudwatch/)
-- [SNS](https://aws.amazon.com/sns/)
-- [EKS](https://aws.amazon.com/eks/)
-- [Glacier](https://aws.amazon.com/s3/storage-classes/glacier/)
+  <a href="https://aws.amazon.com/ebs/" target="_blank">
+    <img src="https://img.shields.io/badge/EBS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/route53/" target="_blank">
+    <img src="https://img.shields.io/badge/ROUTE53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/rds/" target="_blank">
+    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/iam/" target="_blank">
+    <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/cli/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/vpc/" target="_blank">
+    <img src="https://img.shields.io/badge/VPC-1A73E8?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://img.shields.io/badge/CLOUDWATCH-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/sns/" target="_blank">
+    <img src="https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/eks/" target="_blank">
+    <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/glacier/" target="_blank">
+    <img src="https://img.shields.io/badge/GLACIER-5C2D91?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🔥 Featured Projects
